@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.DS_Store
+.venv/
+data/catalog.sqlite*
+data/cache/
+data/panel.log
+entregas/

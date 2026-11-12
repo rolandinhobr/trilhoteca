@@ -1,0 +1,6 @@
+Fonte: https://opengameart.org/content/pong-0
+Capturado em: 2026-09-30T21:01:25.594026+00:00
+SHA-256 da página: 3949de6183b42febd4e8dcbec7f986ccacb4f5ae4bba44a3ee710ec6c581992b
+
+Texto visível da página:
+Pong Author: yesme Monday, April 17, 2023 - 08:51 Art Type: Music Tags: oldschool 8bit 8-bit pong License(s): CC0 Collections: Favorites: 3 Preview: A simple music made for my minigame "Pong" I find my best piece of trash music yet. You csn use it freely. Just if you can, it will be very appreciated if you gave credit. File(s): pong.mp3 237.9 Kb [ 200 download(s)] Log in or register to post comments Comments maniebesselaar joined 7 years 7 months ago 06/14/2024 - 00:44 Just used this to finish up a pong clone for a video series on creating your first game in Unity. Thank you very much. Log in or register to post comments

@@ -1,0 +1,6 @@
+Fonte: https://opengameart.org/content/short-piano-song-loop
+Capturado em: 2026-09-30T20:58:08.637219+00:00
+SHA-256 da página: 4ec9e43b7dd38391011483e2807294ee3e057990122b9167fe97c3643e8a473d
+
+Texto visível da página:
+Short Piano Song Loop Author: frosty ham Wednesday, October 4, 2023 - 16:42 Support frosty ham on Patreon Art Type: Music Tags: piano loop short License(s): CC0 Collections: music Favorites: 2 Preview: This is a song I made with MuseScore while I was trying to do stuff for something else. I used a soundfont called Airfont 340 to make the OGG version because I wanted to make a song that had somewhat of a Wansti-esque feel (Marek "Wansti" Moeckel used the aforementioned soundfont for music he made for SuperTux .) There's a MIDI version included too if you want to use that for stuff. All files in the public domain. File(s): pianosong.ogg 263.8 Kb [ 24 download(s)] pianosong.mid 485 b [ 14 download(s)] Log in or register to post comments

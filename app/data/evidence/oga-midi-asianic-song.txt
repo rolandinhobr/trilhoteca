@@ -1,0 +1,6 @@
+Fonte: https://opengameart.org/content/midi-asianic-song
+Capturado em: 2026-09-30T21:06:15.104723+00:00
+SHA-256 da página: 571851022509125405e4e0d18a11f32a6951e7f220a2fe2ffa5ec54a37bb80cc
+
+Texto visível da página:
+midi asianic song Author: tapatilorenzo Friday, March 4, 2022 - 23:50 Art Type: Music Tags: midi retro loop looping loops asian License(s): CC0 Collections: Preview: A short loop just under a minute that sounds chiptune-ish because it's an unsophisticated MIDI creation. Made it in beepbox on my first time with the program; it's slightly better than it looks at first. It lets you bend notes across pitches and the custom instruments have good audio generation properties. You can add more channels and instruments than you see at first...worth the look. Beatbox lets you share a song by sharing the url. Here it is File(s): asianic.mp3 1.2 Mb [ 50 download(s)] Log in or register to post comments

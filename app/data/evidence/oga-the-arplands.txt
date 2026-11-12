@@ -1,0 +1,6 @@
+Fonte: https://opengameart.org/content/the-arplands
+Capturado em: 2026-09-30T19:22:21.317069+00:00
+SHA-256 da página: bbb57fa3c9bf00f4b00a7395df1b6e3e839c27048d1bdec3b26c1b56760c67c9
+
+Texto visível da página:
+The Arplands Author: LordZintick Thursday, August 13, 2026 - 11:14 Art Type: Music Tags: 8-bit chiptune .wav .ogg 8bit adventure upbeat loop loopable retro License(s): CC0 Collections: Favorites: 5 Preview: A loopable 8-bit music piece made using Strudel REPL, and also the first piece of art/music I've put onto OpenGameArt. I've been using music by HydroGene, nene, and Centurion_of_war for a while now, and I figured I would give back to the community a bit by uploading some music of my own. Here's the link to Strudel REPL if you want to make your own version of it or listen to it natively in the REPL (which sounds a bit better than the exported audio files, but requires more computing power and can't be used in games): link Enjoy! Copyright/Attribution Notice: CC0 - use for whatever you want, but I would like it if you tell me what you use it in so I can play/see it myself! Also, feedback about the music would also be nice to improve on future pieces. File(s): the_arplands.wav 27.6 Mb [ 38 download(s)] the_arplands.ogg 1.6 Mb [ 28 download(s)] Log in or register to post comments

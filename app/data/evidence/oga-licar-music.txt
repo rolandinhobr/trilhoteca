@@ -1,0 +1,6 @@
+Fonte: https://opengameart.org/content/licar-music
+Capturado em: 2026-09-30T20:48:13.523545+00:00
+SHA-256 da página: 7cf7435ca7dc7e3f6b10f3d668796dc0123cc9f5b2a1589167ac78d59df3f1d0
+
+Texto visível da página:
+Licar Music Author: Drummyfish Wednesday, June 25, 2025 - 13:30 Art Type: Music Tags: happy License(s): CC0 Collections: Preview: This is music I made for my game Licar, it can potentially be used as a generic music track in other games as well. I made the track completely myself, down to recording own instrument samples and making a soundfont file, so this should be as legally safe as humanly possible. For completeness I also include a raw MIDI file exported from LMMS. Copyright/Attribution Notice: not needed, you may credit drummyfish File(s): licar.ogg 2.2 Mb [ 32 download(s)] licar.mid 38.8 Kb [ 18 download(s)] Log in or register to post comments

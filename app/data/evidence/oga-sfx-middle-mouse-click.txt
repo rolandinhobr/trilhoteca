@@ -1,0 +1,6 @@
+Fonte: https://opengameart.org/content/middle-mouse-click
+Capturado em: 2026-09-30T20:10:37.381490+00:00
+SHA-256 da página: 2d587609dc5e31285458991a195ac6b998e9a5c5859ae19beff0358e62aa34d2
+
+Texto visível da página:
+Middle Mouse Click Author: 1j01 Saturday, April 4, 2026 - 11:27 Art Type: Sound Effect Tags: mouse click button button click computer ui User Interface License(s): CC0 Collections: Preview: Middle mouse button press and release sounds. I held the mouse up to the microphone to record this - feels silly, but my theory was it would be further from my computer's fans - then applied noise reduction in Audacity, trimmed and ensured each sound starts/ends on zero with (unnoticable) fade in/out. These sounds will be used in Tracky Mouse, free accessibility software for using the computer hands-free. File(s): middle-click-press.wav 13.2 Kb [ 74 download(s)] middle-click-release.wav 12.8 Kb [ 37 download(s)] Log in or register to post comments

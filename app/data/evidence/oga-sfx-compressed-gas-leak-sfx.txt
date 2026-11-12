@@ -1,0 +1,6 @@
+Fonte: https://opengameart.org/content/compressed-gas-leak-sfx
+Capturado em: 2026-09-30T20:13:47.969157+00:00
+SHA-256 da página: 61576dd12ed2bba5ad44cdb69e710d59efbbf07fac536a50294db68397ae71f2
+
+Texto visível da página:
+Compressed Gas Leak SFX Author: 0new4y Tuesday, October 22, 2024 - 22:45 Art Type: Sound Effect Tags: gas compressed gas compressed air gas leak wind License(s): CC0 Collections: Preview: Simple loopable white noise sound effect which imitates a gas leak It's made with Audacity, the project file and ogg is in zip provided below. Alternatively, you can download only the .ogg Cheers~ Copyright/Attribution Notice: No attribution required. Should you still want to credit me, "0new4y" is fine :) File(s): compressed_gas_leak.ogg 25.7 Kb [ 107 download(s)] compressed_gas_leak.zip 5.3 Mb [ 40 download(s)] Log in or register to post comments

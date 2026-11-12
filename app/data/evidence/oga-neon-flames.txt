@@ -1,0 +1,6 @@
+Fonte: https://opengameart.org/content/neon-flames
+Capturado em: 2026-09-30T20:47:09.316733+00:00
+SHA-256 da página: cd2790dd68dff2d12dbeb2bc11c6be9057d3e567088aeba4c56c05041665a546
+
+Texto visível da página:
+Neon Flames Author: northivanastan Friday, August 29, 2025 - 14:34 Art Type: Music Tags: midi retro doom 80s Action Rock hard rock License(s): CC0 Collections: Doom project music Panda Disk System podcast tunes Favorites: 2 Preview: A short MIDI track that sounds like an 80s rock song, with hints of 90s techno. This MIDI arose out of an attempt to cover a breakbeat song that I gave up on halfway through transcribing the first measure of drums, and it was also somewhat inspired by the Doom WAD I was playing when writing it, Neon Overdrive. Recorded with the (MIT licensed) FluidR3_GM soundfont. I don't like this soundfont's balancing much, but it sounded the best out of the available soundfonts that didn't have copyright issues. If you're less concerned about these things, I recommend recording it with a Roland SC-55 or Windows SCC-1-like soundfont. (and if you own an SC-55 and are willing to record for me, please message me!) Copyright/Attribution Notice: MIDI "Neon Flames" by continuum.mid File(s): neon_flames_fluidr3.ogg 1.8 Mb [ 64 download(s)] neon_flames.mid 12.7 Kb [ 50 download(s)] Log in or register to post comments

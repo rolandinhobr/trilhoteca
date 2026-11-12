@@ -1,0 +1,6 @@
+Fonte: https://opengameart.org/content/last-journey
+Capturado em: 2026-09-30T20:49:26.565703+00:00
+SHA-256 da página: 133ac1afcc69ce5f7b63dc2562a88ec23a76bdf634b80940e3cbf7256cd58f0b
+
+Texto visível da página:
+Last Journey Author: Crocdent Monday, April 14, 2025 - 04:37 Art Type: Music Tags: orchestral orchestral loop epic License(s): CC0 Collections: Preview: A short orchestral music I made for the OST of my game, Sail of Dreams. Providing different loop files for game use as well as the FL Studio project file, have a blast with it. File(s): last_journey.mp3 1.6 Mb [ 19 download(s)] last_journey_loops.zip 4 Mb [ 15 download(s)] project_1.flp 1.1 Mb [ 7 download(s)] Log in or register to post comments Comments hatmix joined 3 years 9 months ago 04/14/2025 - 07:37 CC0 doesn't require attribution--you should remove that license if you want attribution when the asset is used. Log in or register to post comments

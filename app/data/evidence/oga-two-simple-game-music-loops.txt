@@ -1,0 +1,6 @@
+Fonte: https://opengameart.org/content/two-simple-game-music-loops
+Capturado em: 2026-09-30T20:49:37.248593+00:00
+SHA-256 da página: 77abdc9dc7c87421b1c769bd09b983b4e2da586a5b8af25dde37d5fa4d8b62b7
+
+Texto visível da página:
+Two Simple Game Music Loops Author: qubodup Sunday, April 6, 2025 - 02:49 Flattr this item Art Type: Music Tags: hopeful Nostalgic cute simple tune loop looping seamless License(s): CC0 Collections: ambience/lo-fi qubodup Audio (CC0) Favorites: 2 Preview: Main menu wait tune and in-game level music made in Ableton Live with stock instruments for a Game Jam. Previews generated with audiowaveform : ./audiowaveform.exe -w 380 -h 214 --no-axis-labels --background-color 637c9d --waveform-color ffffff -i in.wav -o out.png The OGG files should be enough. Crediting/attribution is optional but welcome. Copyright/Attribution Notice: qubodup File(s): menumusicloop-tiggo.wav 9.1 Mb [ 58 download(s)] levelmusicloop-tigrun.wav 7.3 Mb [ 47 download(s)] menumusicloop-tiggo.ogg 786.8 Kb [ 46 download(s)] levelmusicloop-tigrun.ogg 709 Kb [ 42 download(s)] Log in or register to post comments

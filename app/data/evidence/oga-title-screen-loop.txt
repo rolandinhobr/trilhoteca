@@ -1,0 +1,8 @@
+Fonte: https://opengameart.org/content/title-screen-loop
+Capturado em: 2026-09-30T20:51:57.473031+00:00
+SHA-256 da página: 8c8dd1add3d07af052a1afb1841786843de74429a0bfc94d7804d17212cc6133
+
+Texto visível da página:
+Title Screen Loop Author: GboxMikeFozzy Monday, December 2, 2024 - 06:36 Art Type: Music Tags: bgm 40s ominous License(s): CC0 Collections: Favorites: 3 Preview: Was originally made for a title screen loop on my personal game project but it's not going to be used by me, so figured I'd see if anyone else likes it and wants it :) I have attached the zip file containing the project file for Cakewalk if you wanted to edit it :) Copyright/Attribution Notice: Software used: Cakewalk by BandLab
+VST Used: Cakewalk's default :)
+I am not claiming any copyright myself on this and it can be used for commercial reasons if needed. File(s): rts_menumusic_redux.mp3 875.1 Kb [ 59 download(s)] rts_menumusic_redux.ogg 648.8 Kb [ 25 download(s)] rts_menumusic_redux.7z 11.5 Mb [ 11 download(s)] Log in or register to post comments

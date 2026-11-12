@@ -1,0 +1,6 @@
+Fonte: https://opengameart.org/content/short-battle-loop
+Capturado em: 2026-09-30T19:25:59.713833+00:00
+SHA-256 da página: 6e2262702055d046355dab8cdba5ded964894e9f83f2005f668b2348a4d1d2d6
+
+Texto visível da página:
+Short Battle Loop Author: Some Weirdo Friday, February 13, 2026 - 09:00 Art Type: Music Tags: blippy Battle combat blips and bloops blips blip action loop encounter License(s): CC0 Collections: Preview: This is a short loop for battles. It could be used as a backing sample. There's some weird subsonic stuff going on in the background that can make things unpleasant. That is intentional (because violence is not comfortable). I included the lmms file so you can remove it and re-export it or play around with it in other ways. Very blippy, old video game coded but not quite a chiptune. Could be used for other kinds of intense encounters. It's not too intense though it's pretty sparse. If you would like you can add an attribution below. Less funny this time just a link to my profile. You may have to clone the sine wave tracks to keep them from doing a motor sound. lmms version 1.30 Alpha with LV2 capability. Copyright/Attribution Notice: got this here - https://opengameart.org/users/some-weirdo File(s): battleloop.wav 12.1 Mb [ 11 download(s)] battle_loop.zip 10.8 Mb [ 1 download(s)] Log in or register to post comments

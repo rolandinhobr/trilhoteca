@@ -1,0 +1,6 @@
+Fonte: https://opengameart.org/content/chiptune-sfx-pack
+Capturado em: 2026-09-30T20:12:37.111111+00:00
+SHA-256 da página: e659b96902477c1a68b49c230a0dac5f7ac3c4dfe5fcd5e100e40bb5f2e96ac0
+
+Texto visível da página:
+Chiptune SFX Pack Author: FrogPog Saturday, April 12, 2025 - 11:59 Art Type: Sound Effect Tags: NES chiptune 8bit 8-bit famicom ui fx License(s): CC0 Collections: Favorites: 8 Preview: Just a little pack of chuptune sound effects that I made using NesVST File(s): coin.wav 43.3 Kb [ 184 download(s)] coin_2.wav 61.4 Kb [ 128 download(s)] pick_up.wav 30.8 Kb [ 139 download(s)] level_up.wav 168 Kb [ 153 download(s)] level_passed.wav 269.7 Kb [ 134 download(s)] level_passed_2.wav 326.6 Kb [ 107 download(s)] click.wav 21 Kb [ 138 download(s)] click_2.wav 24.3 Kb [ 120 download(s)] damaged.wav 45.5 Kb [ 128 download(s)] fail.wav 63.5 Kb [ 126 download(s)] fail_2.wav 195.5 Kb [ 115 download(s)] game_over.wav 646.7 Kb [ 143 download(s)] Log in or register to post comments

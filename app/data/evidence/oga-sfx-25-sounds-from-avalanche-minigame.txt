@@ -1,0 +1,6 @@
+Fonte: https://opengameart.org/content/25-sounds-from-avalanche-minigame
+Capturado em: 2026-09-30T20:13:20.604143+00:00
+SHA-256 da página: d85bf1b69fd5a62348ba3f505d97ceb00f45c9f372ef969108746b394dd38ecd
+
+Texto visível da página:
+25 sounds from Avalanche minigame Author: fvcalderan Saturday, February 1, 2025 - 00:10 Art Type: Sound Effect Tags: monsters goblins walk jingle deaths hits splash wind Spells License(s): CC0 Collections: Wolf Favorites: 2 Preview: Sounds from my minigame, 'Avalanche' Most sounds were made using my own voice, but some were recorded from real world interactions or synthesised. Sounds (preview order): hit0, hit1, jump, step_snow, step_solid, woosh0, woosh1, woosh2, menu_change, menu_select, gust, howl, jingle, open_door, spell0, spell1, splash, big_monster_death, goblin0, goblin1, goblin2, goblin3, totem_close, totem_open, wraith_death File(s): 25_sounds_from_avalanche_minigame.zip 290.7 Kb [ 307 download(s)] Log in or register to post comments

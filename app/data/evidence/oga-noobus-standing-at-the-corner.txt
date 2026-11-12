@@ -1,0 +1,6 @@
+Fonte: https://opengameart.org/content/noobus-standing-at-the-corner
+Capturado em: 2026-09-30T20:58:59.077439+00:00
+SHA-256 da página: 2ab8d8a75cbec547377dda55bb4ece537df1dab4cde466491c35f2086ca4b964
+
+Texto visível da página:
+Noobus Standing At the Corner Author: Tozan Saturday, July 22, 2023 - 15:39 Art Type: Music Tags: RPG License(s): CC0 Collections: Preview: Life of a static mesh: I'm standing at the corner all day while eternity slips away.  The shaders have crashed, and my textures have become all grey. And when the engine reboots, I'm still standing at the corner with missing triangles.  I didn't import properly. Reimport me again. Another bizzare tune but I'm making a bizzare game. Copyright/Attribution Notice: (CC0) Attribution Optional File(s): noobuscornerstanding.ogg 163.8 Kb [ 11 download(s)] 9021.mid 1.3 Kb [ 4 download(s)] Log in or register to post comments

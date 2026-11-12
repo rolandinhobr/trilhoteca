@@ -1,0 +1,160 @@
+[
+  {
+    "adapter": "loyalty",
+    "url": "https://loyaltyfreakmusic.com/music/chill-for-real/",
+    "description": "Alternativa, guitarra e lo-fi, conforme os gêneros informados pelo artista.",
+    "vocals": null,
+    "tags": [
+      "lofi",
+      "calmo"
+    ]
+  },
+  {
+    "adapter": "loyalty",
+    "url": "https://loyaltyfreakmusic.com/music/13-days-of-halloweenseason-4-penance-instrumental/",
+    "description": "Versão instrumental do tema de Penance. A fonte libera em CC0 somente o instrumental contido neste download.",
+    "vocals": false,
+    "tags": [
+      "suspense",
+      "sombrio"
+    ]
+  },
+  {
+    "adapter": "loyalty",
+    "url": "https://loyaltyfreakmusic.com/music/bleeps-and-bloops/",
+    "description": "Música eletrônica para projetos e jogos. A fonte informa que as cinco primeiras faixas foram feitas para o podcast EdSurge.",
+    "vocals": null,
+    "tags": [
+      "eletrônica",
+      "retro"
+    ]
+  },
+  {
+    "adapter": "loyalty",
+    "url": "https://loyaltyfreakmusic.com/music/lofi-ftw/",
+    "description": "Repertório do álbum LOFI FTW; consulte os gêneros da fonte e confirme a textura na escuta.",
+    "vocals": null,
+    "tags": []
+  },
+  {
+    "adapter": "loyalty",
+    "url": "https://loyaltyfreakmusic.com/music/game-music/",
+    "description": "Repertório do álbum Game Music. Características do álbum indicadas pelo artista, com avaliação por faixa na escuta.",
+    "vocals": null,
+    "tags": []
+  },
+  {
+    "adapter": "loyalty",
+    "url": "https://loyaltyfreakmusic.com/music/eyes-filled-with-static/",
+    "description": "Seleção do álbum Eyes Filled With Static. Características publicadas pela fonte, ainda sem revisão artística individual.",
+    "vocals": null,
+    "tags": []
+  },
+  {
+    "adapter": "loyalty",
+    "url": "https://loyaltyfreakmusic.com/music/alternative-to-nothing/",
+    "description": "Seleção do álbum Alternative To Nothing. Características publicadas pela fonte, ainda sem revisão artística individual.",
+    "vocals": null,
+    "tags": []
+  },
+  {
+    "adapter": "scott",
+    "url": "https://www.scottbuckley.com.au/library/in-this-moment/"
+  },
+  {
+    "adapter": "scott",
+    "url": "https://www.scottbuckley.com.au/library/katabasis-ii/"
+  },
+  {
+    "adapter": "scott",
+    "url": "https://www.scottbuckley.com.au/library/katabasis-i/"
+  },
+  {
+    "adapter": "scott",
+    "url": "https://www.scottbuckley.com.au/library/anabasis-ii/"
+  },
+  {
+    "adapter": "scott",
+    "url": "https://www.scottbuckley.com.au/library/anabasis-i/"
+  },
+  {
+    "adapter": "scott",
+    "url": "https://www.scottbuckley.com.au/library/home-was-you/"
+  },
+  {
+    "adapter": "scott",
+    "url": "https://www.scottbuckley.com.au/library/with-these-hands/"
+  },
+  {
+    "adapter": "scott",
+    "url": "https://www.scottbuckley.com.au/library/unraveling/"
+  },
+  {
+    "adapter": "scott",
+    "url": "https://www.scottbuckley.com.au/library/aphelion/"
+  },
+  {
+    "adapter": "scott",
+    "url": "https://www.scottbuckley.com.au/library/convergence/"
+  },
+  {
+    "adapter": "scott",
+    "url": "https://www.scottbuckley.com.au/library/memories-of-stone/"
+  },
+  {
+    "adapter": "scott",
+    "url": "https://www.scottbuckley.com.au/library/starfire/"
+  },
+  {
+    "adapter": "scott",
+    "url": "https://www.scottbuckley.com.au/library/wildflowers/"
+  },
+  {
+    "adapter": "scott",
+    "url": "https://www.scottbuckley.com.au/library/song-of-the-forge/"
+  },
+  {
+    "adapter": "scott",
+    "url": "https://www.scottbuckley.com.au/library/origami/"
+  },
+  {
+    "adapter": "scott",
+    "url": "https://www.scottbuckley.com.au/library/born-of-the-sky/"
+  },
+  {
+    "adapter": "scott",
+    "url": "https://www.scottbuckley.com.au/library/penumbra/"
+  },
+  {
+    "adapter": "scott",
+    "url": "https://www.scottbuckley.com.au/library/eyes-in-the-void/"
+  },
+  {
+    "adapter": "scott",
+    "url": "https://www.scottbuckley.com.au/library/echoes-of-home/"
+  },
+  {
+    "adapter": "kenney",
+    "url": "https://kenney.nl/assets/interface-sounds"
+  },
+  {
+    "adapter": "oga",
+    "url": "https://opengameart.org/content/chillout-instrumentals-collection",
+    "description": "Coleção instrumental de chillout: lo-fi, beats e eletrônica, conforme as tags publicadas pelo autor."
+  },
+  {
+    "adapter": "oga",
+    "url": "https://opengameart.org/content/funk-collection",
+    "description": "Coleção de funk, jazz e blues com beats e baixo, conforme as tags publicadas pelo autor."
+  },
+  {
+    "adapter": "oga",
+    "url": "https://opengameart.org/content/caves-collection",
+    "description": "Coleção de ambientação sombria para cavernas e RPG; a fonte indica clima misterioso e inquietante."
+  },
+  {
+    "adapter": "oga",
+    "url": "https://opengameart.org/content/retro-wave-collection",
+    "description": "Coleção com synthwave, vaporwave, eletrônica e pop retrô, conforme as tags publicadas pelo autor."
+  }
+]

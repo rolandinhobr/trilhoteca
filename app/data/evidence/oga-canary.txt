@@ -1,0 +1,6 @@
+Fonte: https://opengameart.org/content/canary
+Capturado em: 2026-09-30T20:50:12.959982+00:00
+SHA-256 da página: 5a126ee639604c9fbea9fb26732d6e810b633fe97901b9701e7fb61a488d806f
+
+Texto visível da página:
+Canary Author: hatmix Wednesday, March 12, 2025 - 15:04 Art Type: Music Tags: electronic Bass License(s): CC0 Collections: Favorites: 2 Preview: Some kind of electronic music by a human pretending to be an AI imitating human songs before AI actually did that.  Retrofuturism in a song, perhaps.  Named after a kind of software deployment named after a coal mining practice. Preview version has some rolloff below 100hz.  Alternate version has all the sub-bass.  Maybe they both have more sub-bass than you want--sometimes the machine just does what it wants. Use however you like, but please drop a comment here so I can see what you made! File(s): canary.ogg 1.4 Mb [ 71 download(s)] canary-all-the-sub-bass.ogg 1.4 Mb [ 25 download(s)] Log in or register to post comments Comments MedicineStorm joined 14 years 3 weeks ago 03/12/2025 - 15:06 Nice! For clarification, this song wasn't actually produced with the assistance of AI, correct? Log in or register to post comments hatmix joined 3 years 9 months ago 03/12/2025 - 15:10 Fully created by this human (with Reaper, Audacity, and non-AI plugins). Log in or register to post comments

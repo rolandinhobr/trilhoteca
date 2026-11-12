@@ -1,0 +1,7 @@
+Fonte: https://opengameart.org/content/nes-pomp-and-circumstance-high-scoregallery
+Capturado em: 2026-09-30T21:09:55.191166+00:00
+SHA-256 da página: 8bef7cdc78dc04aa0147f8301b1fe3a98356999696c6eb23219e8bd550262ec2
+
+Texto visível da página:
+NES "Pomp and Circumstance" (High Score/Gallery) Author: Haley Halcyon Tuesday, May 4, 2021 - 22:40 Art Type: Music Tags: high score calming Classical Graduation game over NES chiptune Baroque march License(s): CC0 Collections: CC0 - Retro Music CF Inspiration Preview: NES arrangement of Pomp and Circumstance (that one graduation march song). No extension chips used. All versions seamlessly loop by default. Downloadable as Famitracker project (FTM in 7z), WAV, and OGG. Copyright/Attribution Notice: "Pomp and Circumstance March No.1" by Sir Edward Elgar
+arranged for NES sound chip by Haley Halcyon File(s): pomp_and_circumstance.7z 3.2 Kb [ 38 download(s)] pomp_and_circumstance_nes.wav 8.5 Mb [ 76 download(s)] pomp.ogg 1.2 Mb [ 55 download(s)] Log in or register to post comments

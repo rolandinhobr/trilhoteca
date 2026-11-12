@@ -1,0 +1,6 @@
+Fonte: https://opengameart.org/content/twangy-ui-sounds
+Capturado em: 2026-09-30T20:12:42.506343+00:00
+SHA-256 da página: c2c2abe2125b571ebd898259bbaf2821415e245537b75670c95ed837858ea968
+
+Texto visível da página:
+Twangy UI Sounds Author: EZduzziteh Monday, April 7, 2025 - 07:36 Art Type: Sound Effect Tags: .mp3 License(s): CC0 Collections: A Test Wolf Favorites: 2 Preview: Some user interface twangy sounds I made for Ludum Dare 57 Check them out in the game I submitted here: https://ezduzziteh.itch.io/depths-of-the-void File(s): sfx_ui_twang_1.mp3 7.3 Kb [ 60 download(s)] sfx_ui_twang_2.mp3 5.3 Kb [ 46 download(s)] sfx_ui_twang_3.mp3 6.9 Kb [ 42 download(s)] sfx_ui_twang_4.mp3 6.6 Kb [ 39 download(s)] Log in or register to post comments

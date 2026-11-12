@@ -1,0 +1,14 @@
+TRILHOTECA — música e SFX para Claude Code e Codex
+
+1. Clone ou baixe este repositório.
+2. Abra a pasta Trilhoteca no Claude Code ou no Codex que roda no seu computador.
+3. Cole esta mensagem no chat:
+
+Leia INSTALAR_PARA_IA.md desta pasta e instale a Trilhoteca no meu computador, com acesso global no Claude Code e no Codex. Preserve minhas configurações existentes e confirme o funcionamento do MCP, do catálogo e das buscas de música e SFX. Faça a instalação por mim.
+
+Depois da instalação, abra uma nova sessão. Você pode pedir, por exemplo:
+"Use a Trilhoteca: quero piano calmo para uma cena de 40 segundos e um whoosh curto para o corte. É conteúdo próprio, monetizado, sem patrocínio."
+
+O pacote inclui 5.677 músicas e 4.389 SFX catalogados. O áudio é baixado quando você pede uma prévia ou escolhe um arquivo. Não há Drive nem conta envolvidos.
+
+Funciona localmente em macOS e Linux; foi testado em macOS. Um chat somente na nuvem não instala programas no seu computador. Windows nativo ainda não é suportado por este pacote.
